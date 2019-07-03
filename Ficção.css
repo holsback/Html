@@ -1,0 +1,11 @@
+h1{
+    font-size: 40pt;
+    color: rgb(0, 0, 0);
+}
+h2{
+    font-size: 40pt;
+    color: rgba(213, 5, 255, 0.425);
+}
+body{
+    background-image: URL(file:///C|Users/aipsi01t/Documents/ds2.jpg);
+}
